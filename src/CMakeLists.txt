@@ -91,6 +91,7 @@ add_executable(rtl_433
 	devices/maverick_et73x.c
 	devices/rftech.c
 	devices/lacrosse_tx35.c
+	devices/revolt_nc5462.c
 
 )
 

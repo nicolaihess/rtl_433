@@ -41,6 +41,7 @@
 		DECL(esperanza_ews) \
 		DECL(efergy_e2_classic) \
 		DECL(kw9015b) \
+		DECL(revolt_nc5462) \
 		DECL(generic_temperature_sensor) \
         DECL(wg_pb12v1) \
 		DECL(acurite_txr) \
